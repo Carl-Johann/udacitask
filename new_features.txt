@@ -1,5 +1,8 @@
-1# feature:
+1# feature: 	
+In todolist.rb:42 i made a definition that can check if the '@items' is empty.
 
-2# feature:
+2# feature: 
+At todolist.rb:44 i use a '?' in a method, instead (ex. @items.length = 0 ) 
 
-3# feature:
+3# feature: 
+At todolist.rb:54 i added the 'attr_writer' so that i could change'@completed_status' boolean from 'false' to 'true' 
