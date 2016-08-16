@@ -1,0 +1,24 @@
+commit 2911755e0c5bcfef86780a351340285f3685e39e
+Author: Carl-Johan Beurling <carljohan.beurling@gmail.com>
+Date:   Tue Aug 16 22:19:02 2016 +0200
+
+    final commit. should be all done
+
+commit c6b7917c84c7af0bc72604ca05411b28e92e86df
+Author: Carl-Johan Beurling <carljohan.beurling@gmail.com>
+Date:   Tue Aug 16 22:14:29 2016 +0200
+
+     third commit
+    .
+
+commit 2644f7708b3fc309d2956e3a6106d05a46f30aaa
+Author: Carl-Johan Beurling <carljohan.beurling@gmail.com>
+Date:   Tue Aug 16 22:08:28 2016 +0200
+
+     second commit
+
+commit 82d58a549a376dd918eb6765936c5445ebb97ee9
+Author: Carl-Johan Beurling <carljohan.beurling@gmail.com>
+Date:   Tue Aug 16 21:45:17 2016 +0200
+
+    initial commit
