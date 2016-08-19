@@ -1,8 +1,10 @@
 1# feature: 	
-In todolist.rb:42 i made a definition that can check if the '@items' is empty.
+todolist:15 I have added a feature which will clear the whole list.
 
 2# feature: 
-At todolist.rb:44 i use a '?' in a method, instead (ex. @items.length = 0 ) 
+todolist:20 I have a feature which will check if the due date is overdue, and change @completed_status to 'OVERDUE'. At the moment it's a bit artificial, i know, but with very few changes like: 
+    At todolist:7 i could change the line to: @time_today = Time.now
+  but for the sake of getting a correct output, and making sure it works even i you were reviewing my code the following month, it is what it is.
 
 3# feature: 
-At todolist.rb:54 i added the 'attr_writer' so that i could change'@completed_status' boolean from 'false' to 'true' 
+todolist:52 I made a method that checks if the @items array is empty. If it is, it will puts one thing, and another if it isn't.
